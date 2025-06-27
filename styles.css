@@ -1,0 +1,29 @@
+body {
+  font-family: Arial;
+  background: #f0f0f0;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.container {
+  background: #c0c0c0;
+  padding: 20px;
+  border-radius: 10px;
+  text-align: center;
+}
+.discount {
+  font-size: 24px;
+  margin: 10px;
+}
+.message {
+  margin-top: 10px;
+  color: green;
+  font-weight: bold;
+}
+.apply-btn {
+  background: black;
+  color: white;
+  padding: 10px 20px;
+  margin-top: 10px;
+}
